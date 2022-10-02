@@ -13,8 +13,7 @@ function Root() {
         </div>
         <div className="Root-content border top-bottom-padding">
           <p>
-            For building decentralized programs with a toolkit for beginners to
-            professionals
+            A toolkit for building decentralized apps made for beginners and professionals
           </p>
         </div>
         <div className="Root-content border top-bottom-padding content-text">
